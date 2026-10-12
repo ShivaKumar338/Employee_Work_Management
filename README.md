@@ -126,8 +126,4 @@ npx vercel --prod
 
 Set `NEXT_PUBLIC_API_URL` to your hosted backend URL in Vercel's environment variables.
 
----
 
-## 📝 License
-
-MIT — built for hackathons and learning. Use freely.
